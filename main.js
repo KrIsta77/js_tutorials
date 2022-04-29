@@ -1,3 +1,6 @@
 var fruit = "apple";
 
-console.log(fruit);
+
+
+var fruits = ['apple', 'banana','kiwi','orange'];
+console.log(fruits)
